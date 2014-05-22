@@ -2,8 +2,6 @@ Things to work on:
 
 Remind player to talk with Kormaw
 
-"The" is missing in Kormaw's speech
-
 Make monsters in Aaglon Pass easier
 
 Add Orb fizzle cutscene
@@ -15,8 +13,6 @@ Add race tracks (At least the first one)
 Add new collection/dungeon quest
 
 Polish John's dialog in Skaylon
-
-Set up blockade for Aaglon pass, until Vero joins
 
 Adjust class values and equipment
 

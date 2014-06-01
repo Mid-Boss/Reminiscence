@@ -6,8 +6,6 @@ Make monsters in Aaglon Pass easier
 
 Add Orb fizzle cutscene
 
-Add racetrack outer area
-
 Add race tracks (At least the first one)
 
 Add new collection/dungeon quest
@@ -26,3 +24,4 @@ Add puzzle side quest
 
 Check that HP with classes works with hitting the L and R buttons (q and w on keyboard)
 
+Add racing tutorial / explanation

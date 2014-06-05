@@ -6,8 +6,6 @@ Make monsters in Aaglon Pass easier
 
 Add Orb fizzle cutscene
 
-Add race tracks (At least the first one)
-
 Add new collection/dungeon quest
 
 Polish John's dialog in Skaylon
@@ -25,3 +23,7 @@ Add puzzle side quest
 Check that HP with classes works with hitting the L and R buttons (q and w on keyboard)
 
 Add racing tutorial / explanation
+
+Fix 2nd race track
+
+Finish 3rd race track

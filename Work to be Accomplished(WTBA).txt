@@ -1,18 +1,12 @@
 Things to work on:
 
-Remind player to talk with Kormaw
-
 Make monsters in Aaglon Pass easier
-
-Add Orb fizzle cutscene
 
 Add new collection/dungeon quest
 
 Polish John's dialog in Skaylon
 
 Adjust class values and equipment
-
-Change horn of life to tusk, or something
 
 Add more items
 
@@ -27,3 +21,5 @@ Add racing tutorial / explanation
 Fix 2nd race track
 
 Finish 3rd race track
+
+Add items for hint guy's brother in Aaglon Pass

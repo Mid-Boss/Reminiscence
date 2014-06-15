@@ -16,12 +16,6 @@ Add puzzle side quest
 
 Check that HP with classes works with hitting the L and R buttons (q and w on keyboard)
 
-Add racing tutorial / explanation
-
-Finish 3rd race track
-
-Add items for hint guy's brother in Aaglon Pass
-
 Add chair icon to icon set (requires modifying an image in the install folder though :/ )
 
 Make class ring items

@@ -1,0 +1,14 @@
+This document is just a place to keep some useful notes about the game.
+
+---------------
+Video Info
+Screen Size (for .ogv animations and such): 640 x 480
+Steps to make videos:
+  1) Create a video in a program of your choice
+  2) Export as .mp4
+  3) Convert to .ogv using the following site:
+     http://video.online-convert.com/convert-to-ogg
+
+     If necessary, change the frame size when you convert it on the website
+     (note that the above website struggles with .avi files)
+---------------

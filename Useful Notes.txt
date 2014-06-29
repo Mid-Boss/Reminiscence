@@ -2,6 +2,7 @@ This document is just a place to keep some useful notes about the game.
 
 ---------------
 Video Info
+
 Screen Size (for .ogv animations and such): 640 x 480
 Steps to make videos:
   1) Create a video in a program of your choice
@@ -11,4 +12,18 @@ Steps to make videos:
 
      If necessary, change the frame size when you convert it on the website
      (note that the above website struggles with .avi files)
+---------------
+Custom Sprites (VE Side Battle Script)
+
+-Files are referenced at beginning of script as stings (ex. 'filename')
+
+-File names themselves must have [anim] appended as part of the name (ex.
+ filename[anim].png)
+
+-Use {mode: :sprite} or {mode: :charset} -> charset uses the standard 4x3
+ character set, sprite allows for custom dimensions
+
+
+-See VE_ACTION_SETTINGS[:robo] = "
+ for an example of a custom action set
 ---------------

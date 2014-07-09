@@ -1,0 +1,50 @@
+Playtest notes 7-9-14
+
+-Noticed some weird lag at opening scene when map scrolled
+
+-At Tak lvl 1, plants only do 3 damage
+
+-Book burning scene froze when bad guy was supposed to move; most likely due to anti-lag script
+
+-Slimes do 0 damage to lvl 2 Tak
+
+-Stupid Rat does 0 damage to lvl 2 Tak
+
+-Hornet does 0 damage to lvl 2 Tak
+
+-Batzoo only does 3 damage to lvl 2 Tak
+
+-Batzoo only does 1 damage to lvl 3 Tak
+
+-Batzoo does 0 damage to lvl 4 Tak
+
+-Angry Batzoo only does 6 damage to lvl 3 Tak
+
+-Skal pile in the mine needs sound effects
+
+-Tritops did 18 to lvl 4 Tak (not bad actually)
+
+-Exited mine at Tak lvl 4
+
+-Unwanted space in dialogue after getting laundry:
+ "  Now look here you old [...]" -Tak
+
+-Unwanted space in dialogue at Vero's house:
+"Hmph... listen to little blue Vero now.
+    You aren't even 0.00001% of the man [...]" -Kormaw
+
+-When Vero joins the party, you can see him behind Tak.  Need to make him transparent at the end of his move route.
+
+-Spider did 0 damage to lvl 5 Tak
+
+-Top right of Aaglon 2nd floor looks weird b/c floor is at very edge of map.  Could fix, but would have to move all of the transfer events in and out of 2nd floor :(
+
+-Smuggler face when he says "Pleasure doing business" and "Choose quickly" is still the old turban face, not the new hooded face
+
+-No one can equip the Murse
+
+-Transparent background is annoying when using potions during battle
+
+-Exited Aaglon pass with Tak lvl 7, Vero lvl 7 (no one died in Aaglon)
+
+-Potentially remove Tak's comments in Skaylon shops (where it shows his face and he talks to dog and/or kid)

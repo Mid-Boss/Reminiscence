@@ -41,7 +41,7 @@ Playtest notes 7-9-14
 
 -Smuggler face when he says "Pleasure doing business" and "Choose quickly" is still the old turban face, not the new hooded face
 
--No one can equip the Murse
+-No one can equip the Murse (need to change armor type to "general armor")
 
 -Transparent background is annoying when using potions during battle
 

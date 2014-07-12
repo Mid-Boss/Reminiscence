@@ -1,7 +1,5 @@
 Things to work on:
 
-Make monsters in Aaglon Pass easier
-
 Add new collection/dungeon quest
 
 Polish John's dialog in Skaylon
@@ -18,6 +16,10 @@ Check that HP with classes works with hitting the L and R buttons (q and w on ke
 
 Add chair icon to icon set (requires modifying an image in the install folder though :/ )
 
-Make class ring items
-
 Replace the 1 Skal reward for lava race secret with a class ring
+
+Tune monsters to new class stats
+
+Fix transparent background when using potions in battle if possible
+
+Replace 300 Skal reward for one of the Aaglon treasure chests with an item

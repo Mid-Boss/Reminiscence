@@ -228,7 +228,10 @@ class Game_Event < Game_Character
   # * New method: auto_event?
   #--------------------------------------------------------------------------
   def auto_event?
-    @mode == :always || @trigger == 3 || @trigger == 4
+    @mode == :never || @trigger == 3 || @trigger == 4
+    if $game_switches[7]
+	@mode == :always || @trigger == 3 || @trigger == 4
+    end
   end
   #--------------------------------------------------------------------------
   # * New method: on_screen?

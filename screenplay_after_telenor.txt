@@ -1,0 +1,204 @@
+Story Elements after Telenor
+
+==============================================================================80
+Tent Scene
+==============================================================================80
+
+01. Player is instructed to return through underwater passage to get boat
+
+02. Player takes boat North to bounty hunter tent
+
+03. Upon entering the tent, the player finds that the woman from Skaylon is in
+    the middle of a conversation with the bounty hunters.  She is being accused
+    of committing some sort of crime, and the bounty hunters are going to arrest
+    her.
+
+04. The woman recognizes (or doesn't) Vero.  Either way she is attracted to him
+    and flirts.
+
+05. The bounty hunters assume that the woman is friends with the party and that
+    they are accomplices in the accused crime.
+
+06. The bounty hunters surround the party and the woman.  The screen goes black
+    as fighting sounds are heard.
+
+    \n<Vero>\n[001], help!
+
+    \n<\n[001]>Vero!
+
+07. (optional) Play the transfer sound.  Then:
+    \n<Bounty Hunter #1>Hey boss, we got 'em!
+
+    \n<???>Hmph!\.\. I knew those pansy shits didn't have it in them.  Is that
+    Telenor's boat outside?  He must have tricked them into coming here.
+
+    \n<Bounty Hunter #1>These two were working with Miss Blabeebloo in that
+    job she tried to pull out East! They practically admitted it!
+
+    \n<???>Is that so? Maybe I underestimated them after all, or at least Vero.
+
+    \n<Bounty Hunter #1>Well what do you want us to do with them now?
+
+    \n<???>You work for me, remember? I paid you to get them out of Yaava,
+    not to ask me questions about how to do your fuckin' job.  I don't give a
+    damn what you do with them, just as long as they're not here.
+
+    \n<Bounty Hunter #1>You got it boss! My apologies!
+==============================================================================80
+End Tent Scene
+==============================================================================80
+==============================================================================80
+==============================================================================80
+Wake up in Dungeon
+==============================================================================80
+
+01. The screen is black and no music is playing
+
+02. \n<\n[001]>.\..\..\..\..Ugh...
+
+03. The screen fades in and Tak is facedown in a dungeon cell (there's a sprite
+    for this)
+
+04. \n<\n[001]>Where am I?
+
+05. Tak gets up and walks to the door of his cell.  The map pans around the
+    room, and the player sees Vero and another man in two different cells.
+
+06. \n<\n[001]>Vero? Are you there?
+
+    \n<Vero>Yeah I'm here...\. unfortunately. Do you know where we are?
+
+07. The stranger man walks to the door of his cell:
+    \n<Man>Hey you two finally woke up!  They must've hit you pretty hard, huh?
+
+08. \n<Vero>Yes, well anyway \n[001] these cell doors look pretty strong and I
+    don't think I have the proper magic skill to break them down.  Maybe if you
+    weren't so worthless and you could, you know, USE FUCKING MAGIC we might
+    have a shot of getting out of here.
+
+    \n<Man>Calm down there friend! No one's getting out of here, magic or not.
+    This is Slevenel, the old execution holding grounds of the king of Kreole.
+
+    \n<\n[001]>Execution!? Vero we \fireallly\fi need to get out of here! We
+    have to at least try.  Ready? \.\. On the count of three.
+
+    1\..   2\..
+
+    \n<Vero>3!
+
+09. Tak runs into his door a bunch of times (he doesn't have a sword because
+    they took his stuff, obviously).  Vero throws chairs at his door but
+    nothing happens.
+
+10. A guard runs into the room:
+    \n<Guard>Hey you two! Stop making noise!
+
+    \n<Vero>We'll stop making noise when you let us out of here!
+
+    \n<Guard>Ok smart ass, we'll play by your rules.
+
+11. The guard walks over to Vero's cell and opens the door.  He walks into the
+    cell and hits vero with a sword, sending him flying into the back wall of
+    the cell.
+
+    \n<Guard>That oughta teach you to pipe down.
+
+12. The screen fades to black and the music fades out.
+
+13. After a brief pause, the music and screen fade back in and it says "Two 
+    days later" at the top of the screen.
+
+14. \n<\n[001]>Ten-thousand four hundred and sixty-four...
+    Ten-thousand four hundred and sixty-five...
+    Ten-thousand four hundred and sixty-six...
+    Ten-thousand four hundred and sixty-seven...
+
+    \n<Man>My turn!
+    Ten-thousand four hundred and sixty-eight...
+    Ten-thousand four hundred and sixty-nine...
+    Ten-thousand four hundred and seventy!
+
+    \n<Vero>Will you two stop that!
+
+15. The screen fades to black and music fades out.
+
+16. After a brief pause, the music and screen fade back in and it says
+    "Later that day" at the top of the screen.
+
+17. \n<Man>...And so that's when I knew that I was going to make her my wife.
+    After a dog and two kids later, I can say it's the best decision I ever
+    made.
+
+    \n<\n[001]>Wow, good for you guys.  I wish I had someone like that in
+    my life.
+
+    \n<Vero>So tell us, Ramos, if you're such a good guy how did you end
+    up here in Slevenel?
+
+    \n<Ramos>That's a good question.  The thing is, nobody knows how they
+    get here.  For the past month or so people have just been disappearing
+    from my hometown of Kreole.  An old neighbor of mine was held in your
+    cell, \n[001], but a few days before you showed up they took him away.
+    Neither him nor I remember how we got here.  We both just remember going
+    to sleep and waking up here.
+
+    \n<\n[001]>Vero and I know how we got here! We were falsly accused of
+    a crime, and then a band of bounty hunters brought us here!
+
+    \n<Ramos>Are you sure about that? Maybe you were attacked by bounty
+    hunters, but do you actually remember them bringing you here? They
+    could be captives themselves! I have a suspicion that there's something
+    more sinister at work.
+
+    \n<Vero>Hmm an interesting theory. But what about these people just
+    disappearing from Kreole? That seems awfully strange.
+
+    \n<Ramos>Well the town security hasn't been very good since we were
+    attacked.
+
+    \n<\n[001]>Attacked? By who?
+
+    \n<Ramos>No one really knows. The only accounts describe a shadowy figure
+    appear at the edge of town right before it was destroyed by magic.
+    Some of us managed to survive, and without anywhere else to go we stayed
+    behind to rebuild.  We were making some progress until people started
+    to vanish.
+
+    \n<\n[001]>That's terrible. We need to get out of here and figure out
+    what's going on.
+
+    \n<Ramos>Unfortunately I don't think that's going to happen. I just hope
+    I get to see my wife and kids one more time before it's all over...
+
+18. The screen fades to black and music fades out.
+
+19. After a brief pause, the music and screen fade back in and it says
+    "The next day" at the top of the screen.
+
+20. \n<\n[001]>One-million two hundred thirty thousand six hundred fifty-four...
+    One-million two hundred thirty thousand six hundred fifty-five...
+    
+    \n<Man>One-million two hundred thirty thousand six hundred fifty-six...
+    One-million two hundred thirty thousand six hundred fifty-seven...
+
+    \n<Vero>Please stop.  Please stop.  Please stop.
+    Stop stop stop stop stop stop stop stop stop!
+    You are driving me crazy!
+
+    \n<\n[001]>One-million two hundred thirty thousand six hundred fifty-eight...
+    One-million two hundred thirty thousand six hundred fifty-nine...
+
+    \n<Vero>Guards! Just kill me now! Hey! Guards!
+
+21. At this point there are some fighting noises followed by a "umph!" noise.
+    Miss Blabeebloo walks in.  She's taken out the guards!
+
+    \n<Blabeebloo>Hello boys! What do you say? Want to get out of here?
+
+22. Miss Blabeebloo walks over to each person's door and let's them out.
+
+    \n<Blabeebloo>I got the keys from the guard outside.
+
+*Need to actually write this part, but basically the guards aren't there
+    because the woman distracted them or took them out or something.  At
+    this point she walks into the room and opens everyone's cells.

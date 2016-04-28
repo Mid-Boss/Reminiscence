@@ -1,0 +1,20 @@
+function [ foo ] = calcStats( foo,mhp,mmp,att,def,mat,mdf,agi,luk )
+%calcStats Given an enemy structure, foo, with a level field, .lvl,
+%calculates the the enemy's stats based on the percentages mhp, mmp, ...,
+%luk of the average class stats
+
+load avgClassStats.mat;
+
+lvl = foo.lvl;
+foo.mhp = round(avg.mhp(lvl)*mhp/100);
+foo.mmp = round(avg.mmp(lvl)*mmp/100);
+foo.att = round(avg.att(lvl)*att/100);
+foo.def = round(avg.def(lvl)*def/100);
+foo.mat = round(avg.mat(lvl)*mat/100);
+foo.mdf = round(avg.mdf(lvl)*mdf/100);
+foo.agi = round(avg.agi(lvl)*agi/100);
+foo.luk = round(avg.luk(lvl)*luk/100);
+
+    function [bar] myRound
+end
+

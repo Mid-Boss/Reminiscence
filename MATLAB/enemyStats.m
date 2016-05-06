@@ -53,8 +53,8 @@ avg.luk = round(avgscale*avg.luk);
 
 save('avgClassStats.mat','avg');
 
-%% Enemy Stats
-% Field outside of Trayflare
+%% ---------------------------- Enemy Stats ---------------------------- %
+%% Field outside of Trayflare
 slime.lvl = 1;
 slime = calcStats(slime,43,1,45,27,1,1,30,1);
 
@@ -63,3 +63,47 @@ manEatingPlant = calcStats(manEatingPlant,79,666,57,37,1,30,50,10);
 
 hornet.lvl = 2;
 hornet = calcStats(hornet,34,1,72,39,67,39,104,12);
+
+stupidRat.lvl = 2;
+stupidRat = calcStats(stupidRat,71,0,69,58,87,45,75,123);
+
+%% Jowe's Mine
+batzoo.lvl = 3;
+batzoo = calcStats(batzoo,71,0,71,71,43,38,86,25);
+
+angryBatzoo.lvl = 4;
+angryBatzoo = calcStats(angryBatzoo,58.5,0,71,71,38,33,78,47);
+
+mineCat.lvl = 3;
+mineCat = calcStats(mineCat,74.5,0,67,67,48,71,104,54);
+
+ghoulCart.lvl = 4;
+ghoulCart = calcStats(ghoulCart,35.5,0,63,54,42,42,103,59);
+
+tritops.lvl = 5;
+tritops = calcStats(tritops,198.2,0,78,70,37,37,64,42);
+
+%% Aaglon Pass
+littleGirlAaglon.lvl = 6;
+littleGirlAaglon = calcStats(littleGirlAaglon,118,55,73,73,57,87,128,26);
+
+spider.lvl = 6;
+spider = calcStats(spider,47.2,0,67,77,33,57,90,51);
+
+babyDragon.lvl = 6;
+babyDragon = calcStats(babyDragon,50.6,13,73,50,33,80,77,51);
+
+mountainOgre.lvl = 6;
+mountainOgre = calcStats(mountainOgre,61.4,0,83,93,0.1,20,13,13);
+
+%% Field outside Skaylon
+scorpion.lvl = 7;
+scorpion = calcStats(scorpion,44.6,0,69,63,31,63,88,60);
+
+%% ------------------------- Subclasses Unlocked ------------------------- %
+%% Underwater Passage
+grumpyFish.lvl = 8;
+grumpyFish = calcStats(grumpyFish,39.8,0,86,63,29,63,89,21);
+
+chubbyFish.lvl = 8;
+chubbyFish = calcStats(chubbyFish,44.2,0,71,86,29,171,21,21);

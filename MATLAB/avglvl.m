@@ -1,4 +1,4 @@
-function [ ] = avglvl( lvl )
+function [ avgStats ] = avglvl( lvl )
 %avglvl Function for testing purposes only. Prints the average class stats
 %at a specified level to the command window
 

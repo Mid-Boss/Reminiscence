@@ -100,6 +100,12 @@ mountainOgre = calcStats(mountainOgre,61.4,0,83,93,0.1,20,13,13);
 scorpion.lvl = 7;
 scorpion = calcStats(scorpion,44.6,0,69,63,31,63,88,60);
 
+badgerGoblin.lvl = 7;
+badgerGoblin = calcStats(badgerGoblin,35,10,90,30,0,10,120,150);
+
+oldBuffalo.lvl = 7;
+oldBuffalo = calcStats(oldBuffalo,70,20,50,45,0,30,40,35);
+
 %% ------------------------- Subclasses Unlocked ------------------------- %
 %% Underwater Passage
 grumpyFish.lvl = 8;
@@ -107,3 +113,28 @@ grumpyFish = calcStats(grumpyFish,39.8,0,86,63,29,63,89,21);
 
 chubbyFish.lvl = 8;
 chubbyFish = calcStats(chubbyFish,44.2,0,71,86,29,171,21,21);
+
+%% Slevenel
+prisonGuard.lvl = 8;
+prisonGuard = calcStats(prisonGuard,55,0,55,60,0,60,60,62);
+
+ogreCommander.lvl = 9;
+ogreCommander = calcStats(ogreCommander,350,100,100,75,50,55,2,75);
+
+%% Time Dungeon 1
+redBandit.lvl = 10;
+redBandit = calcStats(redBandit,70,50,80,50,70,55,60,5);
+
+bunny.lvl = 10;
+bunny = calcStats(bunny,50,0,110,30,0,25,160,200);
+
+eyeball.lvl = 10;
+eyeball = calcStats(eyeball,150,200,5,60,100,125,2,3);
+
+redDemon.lvl = 10;
+redDemon = calcStats(redDemon,100,100,100,100,100,100,100,100);
+
+merman.lvl = 10;
+merman = calcStats(merman,90,50,110,45,40,75,80,80);
+
+

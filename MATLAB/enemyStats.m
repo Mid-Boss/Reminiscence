@@ -137,4 +137,31 @@ redDemon = calcStats(redDemon,100,100,100,100,100,100,100,100);
 merman.lvl = 10;
 merman = calcStats(merman,90,50,110,45,40,75,80,80);
 
+%% Time Dungeon 2
+lvlBuff = 9;  % Level buff given to all memory enemies in TD2
+memSlime.lvl = 1+lvlBuff;
+memSlime = calcStats(memSlime,43,1,45,27,1,1,30,1);
 
+memStupidRat.lvl = 2+lvlBuff;
+memStupidRat = calcStats(memStupidRat,71,0,69,58,87,45,75,123);
+
+memSpider.lvl = 6+lvlBuff;
+memSpider = calcStats(memSpider,47.2,0,67,77,33,57,90,51);
+
+memMountainOgre.lvl = 6+lvlBuff;
+memMountainOgre = calcStats(memMountainOgre,61.4,0,83,93,0.1,20,13,13);
+
+memGhoulCart.lvl = 4+lvlBuff;
+memGhoulCart = calcStats(memGhoulCart,35.5,0,63,54,42,42,103,59);
+
+memTritops.lvl = 5+lvlBuff;
+memTritops = calcStats(memTritops,198.2,0,78,70,37,37,64,42);
+
+memGrumpyFish.lvl = 8+lvlBuff;
+memGrumpyFish = calcStats(memGrumpyFish,39.8,0,86,63,29,63,89,21);
+
+memChubbyFish.lvl = 8+lvlBuff;
+memChubbyFish = calcStats(memChubbyFish,44.2,0,71,86,29,171,21,21);
+
+enchantress.lvl = 10;
+enchantress = calcStats(enchantress,450,900,50,175,200,275,120,240);

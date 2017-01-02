@@ -50,4 +50,7 @@ Original Creator: Soruve
 !$statue_moon and !$statue_sun (Added 2/19/16)
 Original Creator: Tennshinaakuma
 ==========================================================
+$minotaur_fat, $minotaur_fat2, and minotaur_sheet (Added 1/1/17)
+Original Creator: Thanatos
+http://rmrk.net/index.php?topic=44197.0
 

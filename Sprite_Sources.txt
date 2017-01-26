@@ -1,7 +1,10 @@
 This file contains references for where certain sprite sets
 were obtained
 
-
+==========================================================
+Tritops (added during the Juraissic period) from
+http://peter-califergames.deviantart.com/art/Protoceratops-RPG-Maker-VX-Ace-Sprites-362057499
+Original Creator: Peter-CaliferGames
 ==========================================================
 Tribal Sprites (added 9/6/15) from
 http://www.rpgmakervxace.net/topic/27421-tribal-resources/

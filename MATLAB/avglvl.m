@@ -13,7 +13,7 @@ avgStats.mdf = avg.mdf(lvl);
 avgStats.agi = avg.agi(lvl);
 avgStats.luk = avg.luk(lvl);
 
-% Ignore MATLAB's complaining and just print it the easy way
+% Ignore Octave's complaining and just print it the easy way
 avgStats
 
 end

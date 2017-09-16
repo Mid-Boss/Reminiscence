@@ -1,7 +1,9 @@
 function [ foo ] = calcStats( foo,mhp,mmp,att,def,mat,mdf,agi,luk )
-%calcStats Given an enemy structure, foo, with a level field, .lvl,
-%calculates the the enemy's stats based on the percentages mhp, mmp, ...,
-%luk of the average class stats
+% [ foo ] = calcStats( foo,mhp,mmp,att,def,mat,mdf,agi,luk )
+%
+% Given an enemy structure, foo, with a level field, .lvl,
+% calculates the the enemy's stats based on the percentages mhp, mmp, ...,
+% luk of the average class stats
 
 load avgClassStats.mat;
 avg = avg;

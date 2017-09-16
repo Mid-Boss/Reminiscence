@@ -57,3 +57,10 @@ $minotaur_fat, $minotaur_fat2, and minotaur_sheet (Added 1/1/17)
 Original Creator: Thanatos
 http://rmrk.net/index.php?topic=44197.0
 
+==========================================================
+$bat_sprite_tiled_big and friends (Added 9/16/17)
+Original Creator: Zaron X
+http://steamcommunity.com/sharedfiles/filedetails/?id=206970674&insideModal=1
+
+
+

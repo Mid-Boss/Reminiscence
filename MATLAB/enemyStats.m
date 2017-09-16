@@ -168,3 +168,6 @@ enchantress = calcStats(enchantress,450,900,50,175,200,275,120,240);
 
 minotaur.lvl = 10;
 minotaur = calcStats(minotaur,410,0,240,170,0,180,160,130);
+
+wolfbat.lvl = 10;
+wolfbat = calcStats(wolfbat,320,50,260,130,25,160,350,210);

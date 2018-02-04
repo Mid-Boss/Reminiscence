@@ -61,6 +61,9 @@ http://rmrk.net/index.php?topic=44197.0
 $bat_sprite_tiled_big and friends (Added 9/16/17)
 Original Creator: Zaron X
 http://steamcommunity.com/sharedfiles/filedetails/?id=206970674&insideModal=1
-
+==========================================================
+clock_by_ymiren.png (Added 2/4/18)
+Original Creator: Ymiren
+https://ymiren.deviantart.com/art/RPG-Maker-VX-Clock-148371081
 
 

@@ -66,4 +66,13 @@ clock_by_ymiren.png (Added 2/4/18)
 Original Creator: Ymiren
 https://ymiren.deviantart.com/art/RPG-Maker-VX-Clock-148371081
 
-
+==========================================================
+piraterecolors.png (Added 6/16/18)
+pirates_dead.png
+Original Creator: Enterbrain
+https://forums.rpgmakerweb.com/index.php?threads/tpasmalls-editorium.147/
+==========================================================
+captain_faces.png (Added 6/16/18)
+captain_sprites.png
+Original Creator: Avadan
+https://grandmadebslittlebits.wordpress.com/2014/11/03/avadans-resources/
